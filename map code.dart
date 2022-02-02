@@ -11,7 +11,7 @@ List a = [
 
 void myProgram() {
   List<int>? currentRoute = [0, 0];
-  List<int>? previousRoute = [99, 99];
+  List<int>? previousRoute = [95, 99];
 
   int y = 0;
   while (y < 4) {
